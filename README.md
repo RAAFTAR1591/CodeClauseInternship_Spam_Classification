@@ -1,1 +1,1 @@
-    
+    This is a Spam Classification model using Logistic Regression that allows us to classify if a mail is Spam or not.
